@@ -1,0 +1,27 @@
+_repo: Eens-Engelschman-s-eerste-indrukken-van-New-YorkDe-Aarde-en-haar-Volken-1917_21974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Stuart
+    gutenberg_agent_id: '25002'
+    url: http://www.gutenberg.org/2009/agents/25002
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2007-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21974'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Description and travel'
+- !lcc 'F106'
+title: 'Eens Engelschman''s eerste indrukken van New-York
+
+  De Aarde en haar Volken, 1917'
+url: http://www.gutenberg.org/ebooks/21974
